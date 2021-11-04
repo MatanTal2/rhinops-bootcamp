@@ -6,7 +6,7 @@ Topics
   - Bash script creating password validetor with UI/UX for better understanding the user needs and security thourgh scripts.
 - ### Code management using Git <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" /></a>
   - Learning the fundamental of git and best practices using git when collaborating with team.
-- ### Azure cloud <a href=https://azure.microsoft.com/en-us/><img src=https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white/></a> [The repo](https://github.com/MatanTal2/Azure-Cloud-fundamentals)
+- ### Azure cloud <a><img src=https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white/></a> [The repo](https://github.com/MatanTal2/Azure-Cloud-fundamentals)
   - Wellcome to the cloud, learn the basic component, concepts and methodologies of the cloud inclouding Iaas, Paas, Saas, Scalability,
     Elasticity, High Availability
 - ### Iaas with Terraform [The repo](https://github.com/MatanTal2/terraform) <a href="https://www.terraform.io/" title="Terraform"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/terraform.png" /></a> 
