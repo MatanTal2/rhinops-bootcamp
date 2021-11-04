@@ -6,7 +6,7 @@ Topics
   - Bash script creating password validetor with UI/UX for better understanding the user needs and security thourgh scripts.
 - ### Code management using Git <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" /></a>
   - Learning the fundamental of git and best practices using git when collaborating with team.
-- ### Azure cloud <a><img src=https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white/></a> [The repo](https://github.com/MatanTal2/Azure-Cloud-fundamentals)
+- ### Azure cloud <a href="https://azure.microsoft.com/en-us/" title="Azure"><img src="https://swimburger.net/media/ppnn3pcl/azure.png" width=25 length=25 /></a> [The repo](https://github.com/MatanTal2/Azure-Cloud-fundamentals)
   - Wellcome to the cloud, learn the basic component, concepts and methodologies of the cloud inclouding Iaas, Paas, Saas, Scalability,
     Elasticity, High Availability
 - ### Iaas with Terraform [The repo](https://github.com/MatanTal2/terraform) <a href="https://www.terraform.io/" title="Terraform"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/terraform.png" /></a> 
@@ -15,11 +15,11 @@ Topics
   - Deploy web application to Azure cloud
 - ### CI/CD in Azure devops [The repo](https://github.com/MatanTal2/CICD-with-azure)
   - automate the prossece of build andd deploy with CI/CD
-- ### SAS in Google cloud, GCP
+- ### SAS in Google cloud, GCP <a href="https://cloud.google.com/" title="GCP"><img src="https://user-images.githubusercontent.com/71608579/140300573-8e23a29f-a160-4c4f-9763-c54039ff8a99.png"  width=30 length=30 /></a>
   - Coming soon
-- ### Containers with Docker
+- ### Containers with Docker <a href="https://www.docker.com/" title="Docker"><img src="https://user-images.githubusercontent.com/71608579/140299855-4c1079f0-04ad-4ee4-b93b-085f86607128.png" width=35 length=35 /></a>
   - TBA
-- ### Kubernetes
+- ### Kubernetes <a href="https://kubernetes.io/" title="kubernetes"><img src="https://user-images.githubusercontent.com/71608579/140300114-80d43475-55f1-4b4f-bb11-a2d55c2f9851.png"  width=30 length=30 /></a>
   - TBA
 - ### Monitoring
   - TBA
