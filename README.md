@@ -16,11 +16,11 @@ Topics
 - ### CI/CD in Azure devops [The repo](https://github.com/MatanTal2/CICD-with-azure)
   - automate the prossece of build andd deploy with CI/CD
 - ### SAS in Google cloud, GCP <a href="https://cloud.google.com/" title="GCP"><img src="https://user-images.githubusercontent.com/71608579/140300573-8e23a29f-a160-4c4f-9763-c54039ff8a99.png"  width=30 length=30 /></a>
-  - Coming soon
+  - SaAS in GCP- google cloud, using function services for a simple app usuing image recognition API and text detection. 
 - ### Containers with Docker <a href="https://www.docker.com/" title="Docker"><img src="https://user-images.githubusercontent.com/71608579/140299855-4c1079f0-04ad-4ee4-b93b-085f86607128.png" width=35 length=35 /></a>
-  - TBA
-- ### Kubernetes <a href="https://kubernetes.io/" title="kubernetes"><img src="https://user-images.githubusercontent.com/71608579/140300114-80d43475-55f1-4b4f-bb11-a2d55c2f9851.png"  width=30 length=30 /></a>
-  - TBA
+  - Deploy application with Docker, the CI/CD in Azure Devops
+- ### Kubernetes [The repo](https://github.com/MatanTal2/k8s) <a href="https://kubernetes.io/" title="kubernetes"><img src="https://user-images.githubusercontent.com/71608579/140300114-80d43475-55f1-4b4f-bb11-a2d55c2f9851.png"  width=30 length=30 /></a>
+  - Deploy application with k8s, the CI/CD in Azure Devops
 - ### Monitoring
   - TBA
 
